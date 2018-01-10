@@ -1,0 +1,208 @@
+for query 42 
+P@5 =  0.0
+P@20 = 0.15
+
+for query 48 
+P@5 =  0.2
+P@20 = 0.1
+
+for query 43 
+P@5 =  0.2
+P@20 = 0.3
+
+for query 60 
+P@5 =  0.2
+P@20 = 0.15
+
+for query 61 
+P@5 =  1.0
+P@20 = 0.55
+
+for query 62 
+P@5 =  0.0
+P@20 = 0.0
+
+for query 63 
+P@5 =  0.8
+P@20 = 0.35
+
+for query 64 
+P@5 =  0.2
+P@20 = 0.05
+
+for query 49 
+P@5 =  0.2
+P@20 = 0.1
+
+for query 24 
+P@5 =  0.4
+P@20 = 0.1
+
+for query 25 
+P@5 =  1.0
+P@20 = 0.35
+
+for query 26 
+P@5 =  0.4
+P@20 = 0.3
+
+for query 27 
+P@5 =  0.6
+P@20 = 0.35
+
+for query 20 
+P@5 =  0.6
+P@20 = 0.15
+
+for query 21 
+P@5 =  0.2
+P@20 = 0.15
+
+for query 22 
+P@5 =  0.6
+P@20 = 0.45
+
+for query 23 
+P@5 =  0.6
+P@20 = 0.15
+
+for query 44 
+P@5 =  0.4
+P@20 = 0.15
+
+for query 45 
+P@5 =  0.8
+P@20 = 0.3
+
+for query 28 
+P@5 =  0.6
+P@20 = 0.2
+
+for query 29 
+P@5 =  0.4
+P@20 = 0.5
+
+for query 40 
+P@5 =  0.4
+P@20 = 0.15
+
+for query 1 
+P@5 =  0.2
+P@20 = 0.1
+
+for query 3 
+P@5 =  0.0
+P@20 = 0.0
+
+for query 2 
+P@5 =  0.4
+P@20 = 0.15
+
+for query 5 
+P@5 =  0.2
+P@20 = 0.15
+
+for query 4 
+P@5 =  0.2
+P@20 = 0.1
+
+for query 7 
+P@5 =  0.8
+P@20 = 0.4
+
+for query 6 
+P@5 =  0.2
+P@20 = 0.1
+
+for query 9 
+P@5 =  0.2
+P@20 = 0.2
+
+for query 8 
+P@5 =  0.4
+P@20 = 0.1
+
+for query 39 
+P@5 =  0.4
+P@20 = 0.2
+
+for query 38 
+P@5 =  0.2
+P@20 = 0.1
+
+for query 59 
+P@5 =  0.4
+P@20 = 0.45
+
+for query 58 
+P@5 =  0.4
+P@20 = 0.3
+
+for query 11 
+P@5 =  0.6
+P@20 = 0.3
+
+for query 10 
+P@5 =  0.8
+P@20 = 0.55
+
+for query 13 
+P@5 =  0.6
+P@20 = 0.2
+
+for query 12 
+P@5 =  0.4
+P@20 = 0.2
+
+for query 15 
+P@5 =  0.0
+P@20 = 0.15
+
+for query 14 
+P@5 =  0.4
+P@20 = 0.2
+
+for query 17 
+P@5 =  0.4
+P@20 = 0.2
+
+for query 16 
+P@5 =  0.2
+P@20 = 0.2
+
+for query 19 
+P@5 =  0.8
+P@20 = 0.35
+
+for query 18 
+P@5 =  0.0
+P@20 = 0.15
+
+for query 31 
+P@5 =  0.2
+P@20 = 0.1
+
+for query 30 
+P@5 =  0.2
+P@20 = 0.05
+
+for query 37 
+P@5 =  0.4
+P@20 = 0.15
+
+for query 36 
+P@5 =  0.4
+P@20 = 0.4
+
+for query 33 
+P@5 =  0.0
+P@20 = 0.05
+
+for query 32 
+P@5 =  0.2
+P@20 = 0.1
+
+for query 57 
+P@5 =  0.2
+P@20 = 0.05
+
